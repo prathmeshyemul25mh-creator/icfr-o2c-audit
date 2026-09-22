@@ -1,0 +1,11 @@
+**/node_modules
+**/.git
+**/.wrangler
+worker.js
+wrangler.jsonc
+package.json
+.gitignore
+.assetsignore
+*.sql
+*.md
+*.txt
