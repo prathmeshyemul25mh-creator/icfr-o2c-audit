@@ -18,3 +18,4 @@ Core behavior:
 - Exceptions are stored for investigation.
 - Auditor conclusion is captured separately.
 - Gemini interprets the company RCM and deterministic exceptions; it does not make the final audit conclusion.
+Cloudflare deployment
