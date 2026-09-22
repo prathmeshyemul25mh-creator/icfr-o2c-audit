@@ -1,0 +1,31 @@
+ICFR O2C — GEMINI SETUP (CURRENT 2026)
+
+USE THIS KEY
+1. Go to Google AI Studio -> API Keys.
+2. Click Create API key.
+3. Use the NEW key created there. New AI Studio keys are auth keys.
+4. Using the existing/exposed key from the previous setup is not allowed for this package.
+5. The Default Gemini Project shown by AI Studio is fine for this prototype.
+
+NETLIFY
+Variable name:
+GEMINI_API_KEY
+
+Variable value:
+Paste the NEW Gemini AI Studio auth key. Do not put quotes around it.
+Make sure the variable is available to Functions.
+
+After changing the variable, create a NEW Netlify deploy. Function environment
+variables are not retroactive to an already deployed function.
+
+MODEL USED BY THIS PACKAGE
+Gemini 3.8 Flash (gemini-3.8-flash)
+
+TESTING
+Open the deployed site -> AI Risk & Control Intelligence -> Test Gemini Connection.
+A successful result means Netlify can authenticate to the Gemini API and reach the
+configured model without exposing the key in the browser.
+
+SECURITY
+Never paste the API key into chat, source code, index.html, screenshots, or Git.
+Revoke/delete the previously exposed key after the replacement key is verified.

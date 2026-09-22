@@ -1,0 +1,9 @@
+Bill No,Bill Date,Customer,Guest,Revenue Head,Net Sales,CGST,SGST,IGST,Gross Amount,Payment Mode
+INV-001,2025-04-02,Aster Hotels Ltd,Guest A,Room Revenue,10000,900,900,0,11800,NEFT
+INV-002,2025-04-03,Aster Hotels Ltd,Guest B,Room Revenue,12000,1080,1080,0,14160,NEFT
+INV-003,2025-04-04,Northstar Travel Co,Guest C,Room Revenue,8000,720,720,0,9440,UPI
+INV-004,2025-04-05,Aster Hotels Ltd,Guest D,Room Revenue,15000,1350,1350,0,17700,CARD
+INV-005,2025-04-06,Northstar Travel Co,Guest E,Room Revenue,9000,810,810,0,10620,NEFT
+INV-006,2025-04-07,Aster Hotels Ltd,Guest F,Room Revenue,11000,990,990,0,12980,NEFT
+INV-007,2025-04-08,Northstar Travel Co,Guest G,Room Revenue,7000,630,630,0,8260,NEFT
+INV-008,2025-04-09,Aster Hotels Ltd,Guest H,Room Revenue,6000,540,540,0,7080,NEFT

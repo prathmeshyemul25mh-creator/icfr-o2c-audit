@@ -1,0 +1,4 @@
+Control Code,Process,Risk,Control Objective,Control Description,Testing Logic
+O2C-C01,Order to Cash,Revenue may be recorded inaccurately,Ensure revenue transactions are complete and accurate,Invoice details are reviewed against the sales register before revenue recognition,Compare invoice number date customer guest taxable value taxes and total to source evidence
+O2C-C02,Order to Cash,Cash receipts may not be completely or accurately recorded,Ensure receipts are valid and completely recorded,Recorded receipts are reconciled to payment register and bank credits,Match payment amount reference and date to bank statement evidence
+O2C-C03,Order to Cash,Exceptions may not be investigated and resolved,Ensure identified exceptions are documented and resolved,Exceptions are reviewed by the auditor and conclusion is retained,Verify exception status auditor comment and conclusion are recorded
